@@ -24,6 +24,6 @@ insert(myBag,'가지')
 print('가방속의 물건',myBag)
 
 insert(myBag,'구름')
-remove(myBag,'당근')
+remove(myBag,'지갑')
 print('가방속의 물건',myBag)
-print('항목의 수',numOf('dd',myBag))
+print('항목의 수',numOf('가지',myBag))

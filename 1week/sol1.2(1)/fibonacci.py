@@ -13,16 +13,16 @@ def fib(n):
 def fib_iter(n):
     if n == 0 or n==1:
         return n
-    else: return n
-    a,b = 0,1
-    i = 1
-    while i < n:
-        a,b=b ,a+b
-        i+= 1
+    else: 
+        a,b = 0,1
+        i = 1
+        while i < n:
+            a,b=b ,a+b
+            i+= 1
         return b
 
-print(f'피보나치 반복({5}) = {fib_iter(5)}')
-print(f'피보나치 순환({5}) = {fib(5)}')
+print(f'피보나치 반복({7}) = {fib_iter(7)}')
+print(f'피보나치 순환({7}) = {fib(7)}')
 
 for i in range(1,40):
         start = time.time()
