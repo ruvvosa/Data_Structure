@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sol4.18", "sol4.18\sol4.18.pyproj", "{1376AB5F-44E5-46E2-A31E-65B5BC561B23}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ArrayStack", "ArrayStack\ArrayStack.pyproj", "{77F44BF8-2935-442A-A29C-6D40B221E020}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CheckBrackets", "CheckBrackets\CheckBrackets.pyproj", "{80A000EE-1830-4858-B3CD-5F48886B4DF4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sol4.20", "sol4.20\sol4.20.pyproj", "{66F8E7D3-79E2-4215-BBE1-C56E46E42FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1376AB5F-44E5-46E2-A31E-65B5BC561B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1376AB5F-44E5-46E2-A31E-65B5BC561B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F44BF8-2935-442A-A29C-6D40B221E020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F44BF8-2935-442A-A29C-6D40B221E020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A000EE-1830-4858-B3CD-5F48886B4DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A000EE-1830-4858-B3CD-5F48886B4DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F8E7D3-79E2-4215-BBE1-C56E46E42FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F8E7D3-79E2-4215-BBE1-C56E46E42FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109BFE24-0D87-4D42-A8C0-C50F3FA71472}
+	EndGlobalSection
+EndGlobal
