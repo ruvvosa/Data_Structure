@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedStack", "LinkedStack\LinkedStack.pyproj", "{129D3792-0FE7-4D5C-BEB0-A066B29F4A70}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedQueue", "LinkedQueue\LinkedQueue.pyproj", "{27DFBEF4-13CF-4EBA-BBFE-4270CD4BE9C6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DoublyLinkedDeque", "DoublyLinkedDeque\DoublyLinkedDeque.pyproj", "{75B7BDD4-257A-45C3-8459-5D243EE13EC1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedList", "LinkedList\LinkedList.pyproj", "{C4FF12AC-A2BF-4DAC-A585-15B5E92A6598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129D3792-0FE7-4D5C-BEB0-A066B29F4A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129D3792-0FE7-4D5C-BEB0-A066B29F4A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DFBEF4-13CF-4EBA-BBFE-4270CD4BE9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DFBEF4-13CF-4EBA-BBFE-4270CD4BE9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B7BDD4-257A-45C3-8459-5D243EE13EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B7BDD4-257A-45C3-8459-5D243EE13EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FF12AC-A2BF-4DAC-A585-15B5E92A6598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FF12AC-A2BF-4DAC-A585-15B5E92A6598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC94597D-B4AC-48E9-B3EC-B9ECD0AF7CAC}
+	EndGlobalSection
+EndGlobal
